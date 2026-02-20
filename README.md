@@ -18,3 +18,4 @@ This is a minimal React starter project with Tailwind CSS configured.
    ```bash
    npm run build
    ```
+pratap
